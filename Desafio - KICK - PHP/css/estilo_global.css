@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Ubuntu:wght@300&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+:root{
+    --bg_site: #CD96FA;
+    --bg_formbox: #EFE2FB;
+    --bg_erro_box: #B887E0;
+    --color_h1: #000000;
+    --color_border: #C2B8CC;
+    --light_text: #FFFFFF;
+    --dark_text: #000000;
+    --btt_normal: #A377C7;
+    --btt_hover: #64497A;
+    --bg_navbar: #A15ADB ;
+    --item_hover: #64497A;
+    --border_avatar: #FFFFFF;
+    --bg_box: #A15ADB;
+    --border: #AEAFB1;
+    --title: #000000;
+    --bg_table: #333;
+}
